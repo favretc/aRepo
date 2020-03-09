@@ -6,7 +6,7 @@ public class Hello
             // locate file and make a connection
     {
         Scanner keyboard = new Scanner(System.in);
-        //let computer know there will be keyboard inputs and it needs to have scanner running
+        //let computer know there will be keyboard inputs and it needs to have scanner runnin
         System.out.println("Hello. What is your name?");
         //script
         String response;
